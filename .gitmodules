@@ -1,3 +1,6 @@
 [submodule "week-1"]
 	path = week-1
 	url = https://github.com/JoshuaPina/ai110-module1tinker-playlistchaos-starter
+[submodule "week-3-main"]
+	path = week-3-main
+	url = https://github.com/JoshuaPina/ai110-module1show-gameglitchinvestigator-starter.git
